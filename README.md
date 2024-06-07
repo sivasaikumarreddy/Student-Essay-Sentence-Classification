@@ -35,9 +35,3 @@ Sample Prediction - 2
 Sample Prediction - 3
 
  ![Streamlit Prediction -3](https://github.com/sivasaikumarreddy/Semantic-Data-Processing-and-Representation-WS2023-Team_Shannon/blob/47c8159bd44ac70e09d674bfe0c30b0d78d454f2/05%20-%20Final%20Project/images/3.png)
-
-### Contributions :
-- Tharun Kumar Korine Palli - 25%
-- Siva Sai Kumar Reddy Kachana - 25%
-- Lilly Abraham - 25%
-- Vishnu Prasad Vijaya Kumar - 25%
